@@ -137,7 +137,7 @@ The first column in the CSV must be named ``ResourceID``. ResourceID is a user-g
 ResourceIDs must be unique among all resources imported, not just within each csv, for this reason we suggest using UUIDs.
 
 +-------------+---------------------+--------------------+--------------------+
-| Resource ID | attribute 1         |  attribute 2       | attribute 3        |
+| ResourceID | attribute 1         |  attribute 2       | attribute 3        |
 +=============+=====================+====================+====================+
 | 1           | attr. 1 value       | attr. 2 value      | attr. 3 value      |
 +-------------+---------------------+--------------------+--------------------+
